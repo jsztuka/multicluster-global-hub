@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-kratos/kratos/v2/log"
+	"github.com/go-kratos/kratos/v3/log"
 	apierrors "k8s.io/apimachinery/pkg/api/errors"
 	addonv1alpha1 "open-cluster-management.io/api/addon/v1alpha1"
 	ctrl "sigs.k8s.io/controller-runtime"
