@@ -74,7 +74,7 @@ require (
 )
 
 require (
-	github.com/containerd/containerd v1.7.33 // indirect
+	github.com/containerd/containerd v1.7.36 // indirect
 	github.com/daixiang0/gci v0.14.0 // indirect
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/gonvenience/idem v0.0.3 // indirect
