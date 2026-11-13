@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	http "github.com/go-kratos/kratos/v2/transport/http"
+	http "github.com/go-kratos/kratos/v3/transport/http"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	"github.com/project-kessel/inventory-api/api/kessel/inventory/v1beta1/relationships"

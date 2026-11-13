@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	cloudevents "github.com/cloudevents/sdk-go/v2"
-	"github.com/go-kratos/kratos/v2/log"
+	"github.com/go-kratos/kratos/v3/log"
 	kessel "github.com/project-kessel/inventory-api/api/kessel/inventory/v1beta1/resources"
 	"github.com/stolostron/multicloud-operators-foundation/pkg/klusterlet/clusterclaim"
 	"go.uber.org/zap"
