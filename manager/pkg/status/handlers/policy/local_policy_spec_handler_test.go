@@ -3,7 +3,7 @@ package policy
 import (
 	"context"
 
-	http "github.com/go-kratos/kratos/v2/transport/http"
+	http "github.com/go-kratos/kratos/v3/transport/http"
 	kessel "github.com/project-kessel/inventory-api/api/kessel/inventory/v1beta1/resources"
 	"github.com/project-kessel/inventory-client-go/v1beta1"
 
